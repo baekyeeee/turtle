@@ -11,5 +11,11 @@ h2{
 }
 
 h3{
-    font-size: 48px;
+    color: antiquewhite;
+        font-size: 48px;
+        padding: 5px;
+}
+
+h4{
+    font-size: 24px;
 }
